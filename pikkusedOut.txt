@@ -1,0 +1,5 @@
+Rango,145
+Marko,175
+Rarko,178
+Mango,189
+Varko,194
